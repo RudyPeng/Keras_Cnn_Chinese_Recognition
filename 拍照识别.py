@@ -12,7 +12,7 @@ root = './fg/' # 放图片的文件夹
 if __name__ == '__main__':
 
     #摄像头拍照，按Q键拍照并退出
-    # f.camera_shot(path)
+    f.camera_shot(path)
 
     # 切割
     f.carve(path,root)

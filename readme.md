@@ -18,7 +18,11 @@
 `Training.py` 进行汉字图片的读取训练，并保存为model2.h5  
 `单个预测.py` 测试用的预测单个图片汉字  
 `img_function.py` 主函数调用的函数都在这，注意函数`output_sort`嵌套了上面的预测函数
- 
+
+### 示例
+
+![avatar](example_result.png)
+
  ### 注意
  如果想测试的话，主目录下已经保存了一张 __shot.png__ 用来测试，可以注释掉主函数中的
 ` f.camera_shot(path)`  运行测试查看结果  
