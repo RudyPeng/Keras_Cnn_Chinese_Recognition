@@ -4,7 +4,7 @@
 ### 数据准备
 __data__ 文件夹下共有2个子文件夹： __test__ 和 __train__ 存放训练和测试使用的照片，共训练17个汉字，总计2000余张手写汉字照片。
 
-[点此下载模型，提取码：1irh](链接：https://pan.baidu.com/s/1xI_QCvK_a4_CoqlNG3IWoQ)
+[点此下载模型，提取码：1irh](https://pan.baidu.com/s/1xI_QCvK_a4_CoqlNG3IWoQ)
 
 ### 用到的库  
 
